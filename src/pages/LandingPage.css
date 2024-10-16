@@ -1,0 +1,108 @@
+.bg-container{
+    background-image: url('https://res.cloudinary.com/dzxsnrerx/image/upload/v1729046582/image_rnbmbj.png');
+    height: 9vh;
+    background-size:cover;
+    /* height: 50px; */
+    padding: 32px 1175.5px 632px 62.5px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #00161D;
+}
+
+.heading-element{
+    width: 1440px;
+    height: 300px;
+    max-width: var(--width1440);
+    gap: 0px;
+    opacity: 0px;
+    text-align: center;
+}
+
+.heading {
+    margin-left: 300px;
+    margin-top: 200px;
+    text-align: center;
+    color: #ffffff;
+    font-family: var(--fontfamilyFont1);
+    font-size: 45px;
+    font-weight: 500;
+    line-height: var(--lineheight76);
+    letter-spacing: var(--letterspacing-144);
+    width: 680px;
+    height: 76px;
+    gap: 0px;
+    opacity: 0px;
+    width: Hug (646px)px;
+    height: Hug (84px)px;
+    gap: 16px;
+    opacity: 0px;
+    margin-bottom: 0px;
+}
+
+.span-element{
+    background-color: #B0F9FF;
+    width: Hug (419px)px;
+    height: Hug (84px)px;
+    padding: 4px 20px 4px 20px;
+    gap: 0px;
+    border-radius: 56px;
+    opacity: 0px;
+    color: black;
+    font-family: var(--fontfamilyFont1);
+    font-size: var(--fontsize72);
+    font-weight: 500;
+    line-height: var(--lineheight76);
+    letter-spacing: var(--letterspacing-144);
+    text-align: center;
+}
+
+.para {
+    margin-left: 400px;
+    margin-top: -150px;
+    width: 500px;
+    height: 28px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: var(--fontfamilyFont1);
+    font-size: var(--fontsize20);
+    font-weight: 400;
+    line-height: var(--lineheight28);
+    text-align: center;
+    color: #B0FAFFB2;
+}
+
+.btn-element{
+    margin-top: 0px;
+    text-align: center;
+    width: Hug (11px)px;
+    height: Hug (24px)px;
+}
+
+.open-btn{
+    margin-left: 600px;
+    width:  131px;
+    height: 44px;
+    top: 256px;
+    left: 654.5px;
+    padding: 5px 20px 5px 20px;
+    gap: 0px;
+    border-radius: 12px;
+    opacity: 0px;
+    background: #8BF9E803;
+    box-shadow: 0px 0px 40px 0px #8BF9E833 inset;
+    backdrop-filter: blur(7.5px);
+    font-family: var(--fontfamilyFont1);
+    font-size: var(--fontsize16);
+    font-weight:lighter;
+    line-height: var(--fontsize20);
+    letter-spacing: var(--letterspacing-032);
+    color: #FFFFFF;
+    cursor: pointer;
+    outline: none;
+}
+
+/* .components{
+    background-image: url('https://res.cloudinary.com/dzxsnrerx/image/upload/v1729063931/Container_1_capsus.png');
+    background-size: cover;
+    height: 80px;
+} */
